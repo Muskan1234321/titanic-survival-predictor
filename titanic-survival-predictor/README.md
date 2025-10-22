@@ -36,12 +36,34 @@ The trained model (`titanic_model.pkl`) predicts survival chances and provides r
 ```bash
 git clone https://github.com/<Muskan1234321>/titanic_model.git
 cd titanic_model
+```
 
 2) Install Dependencies
 
 Make sure you have Python installed, then run:
-
+```bash
 pip install -r requirements.txt
-
+```
 3) Run the Streamlit App
+```bash
 streamlit run app.py
+```
+
+### Model Training
+
+The model was trained on Decision Tree due to its interpretability and reasonable accuracy.
+
+### Features
+
+Clean, minimal UI built with Streamlit
+
+Explains reasoning behind predictions
+
+Displays feature importance chart
+
+Uses emojis and animations for engagement 🎉
+
+### Author
+
+Muskan Ijaz
+AI & Cybersecurity Explorer
