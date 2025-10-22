@@ -48,14 +48,19 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Model Training
+
 The model was trained on Decision Tree due to its interpretability and reasonable accuracy.
 
 ##Features
+
 Clean, minimal UI built with Streamlit
+
 Explains reasoning behind predictions
+
 Displays feature importance chart
+
 Uses emojis and animations for engagement 
 
 ## Author
-Muskan Ijaz
+Muskan Ijaz, 
 AI Explorer
